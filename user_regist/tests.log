@@ -243,3 +243,30 @@ Traceback (most recent call last):
 django.db.utils.OperationalError: no such table: django_session
 INFO:django.utils.autoreload:Watching for file changes with StatReloader
 WARNING:django.request:Not Found: /
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:/home/rajaa/user_regist/user_regist/user/models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:/home/rajaa/user_regist/user_regist/user/models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:/home/rajaa/user_regist/user_regist/user/models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+WARNING:django.request:Not Found: /
+INFO:django.utils.autoreload:/home/rajaa/user_regist/user_regist/user/models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:/home/rajaa/user_regist/user_regist/payment/models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:/home/rajaa/user_regist/user_regist/payment/models.py changed, reloading.
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
