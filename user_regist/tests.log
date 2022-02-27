@@ -270,3 +270,4 @@ INFO:django.utils.autoreload:/home/rajaa/user_regist/user_regist/payment/models.
 INFO:django.utils.autoreload:Watching for file changes with StatReloader
 INFO:django.utils.autoreload:/home/rajaa/user_regist/user_regist/payment/models.py changed, reloading.
 INFO:django.utils.autoreload:Watching for file changes with StatReloader
+INFO:django.utils.autoreload:Watching for file changes with StatReloader
